@@ -1,0 +1,31 @@
+
+#nagl {
+    background-color: rgb(38, 41, 41);
+    text-align: center;
+    padding: 30px;
+    font-family: sans-serif;
+    font-size: 20px;
+
+}
+#nwm {
+    height: 550px;
+}
+#prawo{
+    border: 1px solid black;
+    float: left;
+    height: 100%;
+    width: 765px;
+    margin-right: 5px;
+    background-color: rgb(38, 38, 38);
+}
+#lewo {
+    border: 1px solid black;
+    float: left;
+    width: 765px;
+    height: 100%;
+    margin-left: 5px;
+    background-color: rgb(38, 38, 38);
+}
+#fotter {
+
+}
